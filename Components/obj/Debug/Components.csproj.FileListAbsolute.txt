@@ -1,0 +1,5 @@
+F:\牛亚聪\NGif_src\Gif\Components\bin\Debug\Gif.Components.dll
+F:\牛亚聪\NGif_src\Gif\Components\bin\Debug\Gif.Components.pdb
+F:\牛亚聪\NGif_src\Gif\Components\obj\Debug\Components.csprojResolveAssemblyReference.cache
+F:\牛亚聪\NGif_src\Gif\Components\obj\Debug\Gif.Components.dll
+F:\牛亚聪\NGif_src\Gif\Components\obj\Debug\Gif.Components.pdb
